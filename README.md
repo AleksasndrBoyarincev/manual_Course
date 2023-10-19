@@ -1,4 +1,4 @@
-# manual_Course# SQL homework 2
+# manual_Course# SQL homework 
 
 ## 1. Вывести имя и фамилию всех сотрудников, живущих в Москве и с возрастом > 24 лет
 ![S1](https://github.com/Nikita-Titkov/course_qa/assets/128616431/c76c5bf8-45b1-4d68-b5f9-bf4da075c89d)
