@@ -1,4 +1,4 @@
-# manual_Course# Postman Homework 1
+# Postman Homework 1
 
 ## EP_1
 Method: GET
